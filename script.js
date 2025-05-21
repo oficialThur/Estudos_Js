@@ -24,6 +24,7 @@ let altura = 1.80;
 // true ou false
 
 let ArthurLoiro = false;
+let ArthurPreto = true;
 
 // array
 // contem varios de tipos de valores
