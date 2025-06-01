@@ -16,7 +16,7 @@ let nome2 = 'Arthur';
 
 let idade = 20;
 
-// float
+// decimal/float
 
 let altura = 1.80;
 

@@ -2,7 +2,17 @@
 
 let string = "oi";
 
-// concatenar string
+let string2 = "tudo bem?";
+
+// como declarar uma variavel do tipo number
+// numero inteiro
+let numeroInteiro = 10;
+
+// numero decimal/float
+
+let numeroDecimal = 10.5;
+
+// como concatenar uma variavel do tipo string 
 
 let mensagen = "ola";
 let mensagen2 = ",mundo";
